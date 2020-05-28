@@ -1,14 +1,19 @@
 @import url(./__caption/lead__caption.css);
 @import url(./__img/lead__img.css);
 .lead {
-    max-width: 1184px;
-    width: 100%;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex; 
-    margin: 0 auto;
-    flex-direction: column; 
-    box-sizing: border-box;
+  max-width: 1184px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; 
+  margin: 0 auto;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; 
+  -webkit-box-sizing: border-box; 
+          box-sizing: border-box;
+  padding: 0 148px;
 }
 
 @media screen and (max-width: 1030px ) {

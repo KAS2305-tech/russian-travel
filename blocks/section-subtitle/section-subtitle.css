@@ -5,8 +5,11 @@
     max-width: 640px;
     width: 100%;
     padding-bottom: 64px;
-    align-self: center;
-    box-sizing: border-box;
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 @media screen and (max-width: 1030px ) {
