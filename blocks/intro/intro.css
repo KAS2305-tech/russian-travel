@@ -1,0 +1,35 @@
+@import url(./__list/intro__list.css);
+@import url(./__text/intro__text.css);
+@import url(./__title/intro__title.css);
+.intro {
+    max-width: 1184px;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 92px 442px 92px 0px;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 1030px ) {
+    .intro {  
+        max-width: 100%;
+        padding: 92px 286px 92px 48px; 
+    }
+}
+
+@media screen and (max-width: 770px ) {
+    .intro { 
+        max-width: 100%;
+        padding: 88px 24px 88px 24px;
+    }
+}
+
+@media screen and (max-width: 340px ) {
+    .intro {    
+        max-width: 100%;
+        padding: 64px 16px 64px 16px;
+    }
+}

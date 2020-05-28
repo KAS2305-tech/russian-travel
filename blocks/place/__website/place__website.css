@@ -1,0 +1,7 @@
+.place__website {
+    -ms-flex-line-pack: end;
+        align-content: flex-end;
+    -ms-flex-item-align: end;
+        -ms-grid-row-align: end;
+        align-self: end;
+}

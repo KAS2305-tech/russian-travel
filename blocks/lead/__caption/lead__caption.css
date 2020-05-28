@@ -1,0 +1,9 @@
+.lead__caption {
+    font-size: 10px;
+    line-height: 14px;
+    margin-top: 8px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-self: start;
+}
