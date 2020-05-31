@@ -7,4 +7,5 @@
         -ms-flex-direction: row;
             flex-direction: row;
     padding-bottom: 6px;
+    font-weight: normal;
 }
