@@ -1,7 +1,7 @@
+https://kas2305-tech.github.io/russian-travel/index.html
+
 Проект Russian Travel.
- 
- https://kas2305-tech.github.io/russian-travel/index.html
- 
+
 Автор Калугин Андрей.
 
 Данный проект представляет собой веб сайт, который посвящен путешествию по России. 
