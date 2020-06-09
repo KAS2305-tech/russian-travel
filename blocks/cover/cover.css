@@ -14,7 +14,6 @@
     min-height: 740px;
     height: 100%;
     align-items: center; 
-    background-image: url(../../../images/dmitrii-vaccinium-22833-unsplash.jpg);
 } 
 
 @media screen and (max-width: 1030px) {

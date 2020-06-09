@@ -7,9 +7,10 @@
     text-decoration: none;
     text-align: center;
     min-width: 100%;
-    min-height: 100%;
+    min-height: 740px;
     top: 0;
     left: 0;
+    background-image: url(../../../images/dmitrii-vaccinium-22833-unsplash.jpg);
 }
 .cover__link::before{
     content: '';
