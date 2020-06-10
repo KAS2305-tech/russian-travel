@@ -1,4 +1,4 @@
-https://kas2305-tech.github.io/russian-travel_old/index.html
+https://kas2305-tech.github.io/russian-travel/index.html
 
 Проект Russian Travel.
 
