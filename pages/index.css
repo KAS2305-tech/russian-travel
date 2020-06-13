@@ -1,6 +1,7 @@
 
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
+@import url(../blocks/root/root.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/footer/footer.css);
@@ -12,13 +13,3 @@
 @import url(../blocks/section/section.css);
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
-
-.page {
-    font-family: "Inter", Arial, sans-serif;
-    background: #2A2C2F;
-    color: #FFFFFF;
-    -webkit-box-sizing: border-box;
-            box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-} 
