@@ -8,8 +8,8 @@
     text-decoration: none;
     text-align: center;
     min-width: 100%;
-    min-height: 100%;
-    position: absolute; /*по брифу разрешено использовать абсолютное позиционирование*/
+    min-height: 740px;
+    height: 100%;
     top: 0;
     left: 0;
 }
@@ -25,5 +25,5 @@
 }
 .cover__link:hover::before{
     opacity: 0.8;
-    transition: 0.6s ease-out;;
+    transition: 0.6s ease-out;
 }
