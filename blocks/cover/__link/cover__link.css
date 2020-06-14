@@ -27,3 +27,8 @@
     opacity: 0.8;
     transition: 0.6s ease-out;
 }
+@media screen and (max-width: 330px) {
+    .cover__link {
+        min-height: 200px;
+    }
+}

@@ -5,3 +5,8 @@
         -ms-grid-row-align: end;
         align-self: end;
 }
+@media screen and (max-width: 330px ) {
+    .place__website {
+        display: none;
+    }
+}
